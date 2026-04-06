@@ -39,7 +39,7 @@
 
 ## Contact
 
-- For feedback or support, email: rajnikantg357@gmail.com
+- For feedback or support, email: rajsaroj@gmail.com
 
 ---
 
