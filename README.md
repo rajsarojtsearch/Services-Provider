@@ -4,11 +4,6 @@
    ## 🚀 Live Demo
 👉[Click Here to View Project] https://rajsarojtsearch.github.io/Services-Provider/
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://rajsarojtsearch.github.io/Service-Provider)
----
-
-
-
 **LocalLink** is a modern web platform for discovering and connecting with trusted local service providers in your area.
 
 ## Features
